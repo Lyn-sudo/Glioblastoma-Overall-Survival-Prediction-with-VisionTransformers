@@ -1,4 +1,4 @@
-# Glioblastoma-Overall-Survival-Prediction-with-VisionTransformers
+# Glioblastoma Overall Survival Prediction with VisionTransformers
 This repository contains the official implementation of the paper 'Glioblastoma Overall Survival Prediction with Vision Transformers'.
 
 Glioblastoma is one of the most aggressive and common brain tumors, with a median survival of 10–15 months. Predicting Overall Survival (OS) is critical for personalizing treatment strategies and aligning clinical decisions with patient outcomes.
