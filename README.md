@@ -7,11 +7,11 @@ In this study, we propose a novel Artificial Intelligence (AI) approach for OS p
 
 Unlike traditional approaches, our method:
 
-Simplifies the processing workflow
+  - Simplifies the processing workflow
 
-Reduces the need for computational resources
+  - Reduces the need for computational resources
 
-Maintains strong predictive performance
+  - Maintains strong predictive performance
 
 This repository contains the official implementation of the paper:
 "Glioblastoma Overall Survival Prediction with Vision Transformers"
